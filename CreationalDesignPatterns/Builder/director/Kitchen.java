@@ -1,5 +1,6 @@
 package builder.director;
 
+import builder.Builder;
 
 public class Kitchen {
     private Builder builder;
